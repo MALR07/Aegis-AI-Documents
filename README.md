@@ -112,9 +112,9 @@ Participación en el análisis funcional del proceso, diseño de la solución, d
 
 ## Raúl Labrat Rodríguez
 
-Business Analyst • RPA Developer • Process SME
+Business Analyst • RPA Developer • Desarrollador Full-Stack • Process SME
 
-Responsable del análisis funcional, diseño técnico de la solución, desarrollo de la automatización, arquitectura del proyecto, documentación técnica y coordinación del desarrollo colaborativo mediante Git.
+Responsable del análisis funcional, diseño técnico de la solución, arquitectura del proyecto, documentación técnica y coordinación del desarrollo colaborativo mediante Kanban con Jira.
 
 ---
 
