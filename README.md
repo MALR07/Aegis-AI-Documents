@@ -102,7 +102,7 @@ La automatización proporciona importantes ventajas operativas:
 
 Este proyecto ha sido desarrollado de forma colaborativa por el **Grupo E** del curso **RPA + Inteligencia Artificial**.
 
-## María José Hernández Gómez
+## [María José Hernández Gómez](https://github.com/MJoseHG)
 
 Business Analyst • RPA Developer • Process SME
 
@@ -110,7 +110,7 @@ Participación en el análisis funcional del proceso, diseño de la solución, d
 
 ---
 
-## Raúl Labrat Rodríguez
+## [Raúl Labrat Rodríguez](https://github.com/Raul-LR)
 
 Business Analyst • RPA Developer • Desarrollador Full-Stack • Process SME
 
@@ -126,7 +126,7 @@ Participación en el análisis del proceso de negocio, implementación de flujos
 
 ---
 
-## Miguel Ángel Ledesma
+## [Miguel Ángel Ledesma](https://github.com/MALR07)
 
 Business Analyst • RPA Developer • Process SME
 
@@ -134,7 +134,7 @@ Colaboración en el análisis funcional, desarrollo de la automatización, valid
 
 ---
 
-## Luis Miguel Moreno Tapia
+## [Luis Miguel Moreno Tapia](https://github.com/dglcreativo)
 
 Business Analyst • RPA Developer • Process SME
 
@@ -146,37 +146,53 @@ Participación en el diseño funcional, implementación de procesos automatizado
 
 ## Diagrama General del Proyecto
 
-> *(Añadir aquí el diagrama TO-BE completo)*
+> <img width="10930" height="2512" alt="Grupo RPA" src="https://github.com/user-attachments/assets/c4578d8c-4f58-40d1-b252-90f9a9ad76f6" />
 
 ---
 
 ## Dispatcher
 
-> *(Añadir capturas del flujo Dispatcher)*
+> <img width="1546" height="901" alt="Captura de pantalla 2026-07-03 110842" src="https://github.com/user-attachments/assets/2ede3442-b351-42f3-8fad-580772268d66" />
+> <img width="1295" height="840" alt="Captura de pantalla 2026-07-03 110903" src="https://github.com/user-attachments/assets/26938e2e-3452-4e59-859d-d1a42002e47b" />
+> <img width="923" height="860" alt="Captura de pantalla 2026-07-03 110921" src="https://github.com/user-attachments/assets/7128a9fc-39f1-48f6-90a5-a1aa0b9c1705" />
 
 ---
 
 ## Performer
 
-> *(Añadir capturas del flujo Performer)*
+> <img width="1546" height="901" alt="Captura de pantalla 2026-07-03 110842" src="https://github.com/user-attachments/assets/0663ad06-4d4c-41eb-9999-ba3e7cb1bd74" />
+> <img width="1295" height="840" alt="Captura de pantalla 2026-07-03 110903" src="https://github.com/user-attachments/assets/982b6357-87b7-48c0-a97d-0aea239796ac" />
+> <img width="923" height="860" alt="Captura de pantalla 2026-07-03 110921" src="https://github.com/user-attachments/assets/009975d2-7571-4ced-b414-480e53100953" />
 
 ---
 
 ## SharePoint
 
-> *(Añadir capturas de la estructura documental y listas de control)*
+> <img width="1895" height="930" alt="Captura de pantalla 2026-07-03 111308" src="https://github.com/user-attachments/assets/6d7e8754-7e1e-4f9e-bad7-13a55e8e6a43" />
+> <img width="1847" height="897" alt="Captura de pantalla 2026-07-03 111327" src="https://github.com/user-attachments/assets/5e2ff08c-d130-4e38-b32e-e4af3b0b8c22" />
+> <img width="1831" height="881" alt="Captura de pantalla 2026-07-03 111343" src="https://github.com/user-attachments/assets/842e2fb8-b008-47c9-9788-ed7764019c1e" />
+> <img width="1875" height="894" alt="Captura de pantalla 2026-07-03 111413" src="https://github.com/user-attachments/assets/8d45ac0c-b83a-42f3-967b-5363993c02ee" />
+> <img width="1781" height="650" alt="Captura de pantalla 2026-07-03 112122" src="https://github.com/user-attachments/assets/f3e8609a-20fe-4d43-a4c5-44e3fe944518" />
 
 ---
 
 ## Ejemplo de Informe Comparativo
 
-> *(Añadir captura del informe PDF generado automáticamente)*
+> <img width="742" height="847" alt="Captura de pantalla 2026-07-03 111734" src="https://github.com/user-attachments/assets/cc5dbadc-6013-430f-83d5-18ab30cf1669" />
+> <img width="721" height="687" alt="Captura de pantalla 2026-07-03 111757" src="https://github.com/user-attachments/assets/85d81824-7f84-41ba-aa53-6797c3069ec2" />
+> <img width="769" height="744" alt="Captura de pantalla 2026-07-03 111823" src="https://github.com/user-attachments/assets/3c97a507-03ed-4323-9db5-818abf1e5bbf" />
 
 ---
 
 ## Ejemplo de Extracción mediante IA
 
-> *(Añadir capturas de la extracción de datos y comparación de presupuestos)*
+> <img width="1849" height="830" alt="Captura de pantalla 2026-07-03 112105" src="https://github.com/user-attachments/assets/3eaca7ca-b8ef-49a2-ba37-6b65e8f09b66" />
+
+---
+
+# 🎞️ Vídeo del funcionamiento de la primera versión del Flujo
+
+> [<img width="1334" height="750" alt="Captura de pantalla 2026-07-03 112738" src="https://github.com/user-attachments/assets/1d34ff88-e4e8-4e14-9854-ba6333ea3ac3" />](https://youtu.be/5eqmLY37gW8)
 
 ---
 
