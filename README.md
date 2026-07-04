@@ -136,7 +136,7 @@ Colaboración en el análisis funcional, desarrollo de la automatización, valid
 
 ## [Luis Miguel Moreno Tapia](https://github.com/dglcreativo)
 
-Business Analyst • RPA Developer • Process SME
+Business Analyst • RPA Developer • Web Developer • Process SME
 
 Participación en el diseño funcional, implementación de procesos automatizados, pruebas de validación y documentación del proyecto.
 
