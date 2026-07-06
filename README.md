@@ -118,7 +118,7 @@ Responsable del análisis funcional, diseño técnico de la solución, arquitect
 
 ---
 
-## Juan José Díaz Andrades
+## [Juan José Díaz Andrades](https://github.com/JJDA-stack)
 
 Business Analyst • RPA Developer • Process SME
 
